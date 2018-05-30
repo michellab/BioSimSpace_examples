@@ -23,104 +23,12 @@ Loading library: /home/julien/sire.app/dat/leap/lib/aminont12.lib
 Loading PDB file: ./1z1m.pdb
 Created a new atom named: HD1 within residue: .R<HIE 73>
 Created a new atom named: HD1 within residue: .R<HIE 96>
-Created a new atom named: HD1 within residue: .R<HIE 192>
-Created a new atom named: HD1 within residue: .R<HIE 215>
-Created a new atom named: HD1 within residue: .R<HIE 311>
-Created a new atom named: HD1 within residue: .R<HIE 334>
-Created a new atom named: HD1 within residue: .R<HIE 430>
-Created a new atom named: HD1 within residue: .R<HIE 453>
-Created a new atom named: HD1 within residue: .R<HIE 549>
-Created a new atom named: HD1 within residue: .R<HIE 572>
-Created a new atom named: HD1 within residue: .R<HIE 668>
-Created a new atom named: HD1 within residue: .R<HIE 691>
-Created a new atom named: HD1 within residue: .R<HIE 787>
-Created a new atom named: HD1 within residue: .R<HIE 810>
-Created a new atom named: HD1 within residue: .R<HIE 906>
-Created a new atom named: HD1 within residue: .R<HIE 929>
-Created a new atom named: HD1 within residue: .R<HIE 1025>
-Created a new atom named: HD1 within residue: .R<HIE 1048>
-Created a new atom named: HD1 within residue: .R<HIE 1144>
-Created a new atom named: HD1 within residue: .R<HIE 1167>
-Created a new atom named: HD1 within residue: .R<HIE 1263>
-Created a new atom named: HD1 within residue: .R<HIE 1286>
-Created a new atom named: HD1 within residue: .R<HIE 1382>
-Created a new atom named: HD1 within residue: .R<HIE 1405>
-Created a new atom named: HD1 within residue: .R<HIE 1501>
-Created a new atom named: HD1 within residue: .R<HIE 1524>
-Created a new atom named: HD1 within residue: .R<HIE 1620>
-Created a new atom named: HD1 within residue: .R<HIE 1643>
-Created a new atom named: HD1 within residue: .R<HIE 1739>
-Created a new atom named: HD1 within residue: .R<HIE 1762>
-Created a new atom named: HD1 within residue: .R<HIE 1858>
-Created a new atom named: HD1 within residue: .R<HIE 1881>
-Created a new atom named: HD1 within residue: .R<HIE 1977>
-Created a new atom named: HD1 within residue: .R<HIE 2000>
-Created a new atom named: HD1 within residue: .R<HIE 2096>
-Created a new atom named: HD1 within residue: .R<HIE 2119>
-Created a new atom named: HD1 within residue: .R<HIE 2215>
-Created a new atom named: HD1 within residue: .R<HIE 2238>
-Created a new atom named: HD1 within residue: .R<HIE 2334>
-Created a new atom named: HD1 within residue: .R<HIE 2357>
-Created a new atom named: HD1 within residue: .R<HIE 2453>
-Created a new atom named: HD1 within residue: .R<HIE 2476>
-Created a new atom named: HD1 within residue: .R<HIE 2572>
-Created a new atom named: HD1 within residue: .R<HIE 2595>
-Created a new atom named: HD1 within residue: .R<HIE 2691>
-Created a new atom named: HD1 within residue: .R<HIE 2714>
-Created a new atom named: HD1 within residue: .R<HIE 2810>
-Created a new atom named: HD1 within residue: .R<HIE 2833>
-  total atoms in file: 45960
-  The file contained 48 atoms not in residue templates
+  total atoms in file: 1915
+  The file contained 2 atoms not in residue templates
 Checking Unit.
-WARNING: The unperturbed charge of the unit: 24.000000 is not zero.
+WARNING: The unperturbed charge of the unit: 1.000000 is not zero.
 FATAL:  Atom .R<HIE 73>.A<HD1 18> does not have a type.
 FATAL:  Atom .R<HIE 96>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 192>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 215>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 311>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 334>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 430>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 453>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 549>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 572>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 668>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 691>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 787>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 810>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 906>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 929>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1025>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1048>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1144>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1167>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1263>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1286>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1382>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1405>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1501>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1524>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1620>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1643>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1739>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1762>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1858>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1881>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 1977>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2000>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2096>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2119>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2215>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2238>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2334>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2357>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2453>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2476>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2572>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2595>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2691>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2714>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2810>.A<HD1 18> does not have a type.
-FATAL:  Atom .R<HIE 2833>.A<HD1 18> does not have a type.
 Failed to generate parameters
 Parameter file was not saved.
 	Quit

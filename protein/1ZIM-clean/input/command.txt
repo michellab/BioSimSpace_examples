@@ -1,1 +1,2 @@
 ~/sire.app/bin/tleap -f input.txt > ../output/out.txt
+mv leap.log ../output/
