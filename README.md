@@ -19,8 +19,8 @@ All the examples below should consist of a single molecule.
 
 ### Protein systems
 HSP90   
-1ZIM  (test for histidine protonation states, leap soft failure)
-1ZIM-clean (leap success) 
+1ZIM  
+1ZIM-clean 
 *an input to test for disulphide bonds*
 *an input to test cyclic peptides*
 *Thrombin*   
