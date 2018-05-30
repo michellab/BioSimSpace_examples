@@ -1,0 +1,4 @@
+source leaprc.protein.ff14SB
+hsp90 = loadPdb "2JJC.pdb"
+saveAmberParm hsp90 hsp90.top hsp90.crd
+quit

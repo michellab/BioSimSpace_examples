@@ -1,0 +1,50 @@
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/prep to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/lib to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/parm to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/cmd to search path.
+-f: Source input.txt.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./input.txt
+----- Source: /Users/toni_brain/Software/amber16/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /Users/toni_brain/Software/amber16/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /Users/toni_brain/Software/amber16/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /Users/toni_brain/Software/amber16/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/amino12.lib
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminoct12.lib
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminont12.lib
+Loading PDB file: ./2JJC_prep.pdb
+  total atoms in file: 3258
+Checking Unit.
+WARNING: The unperturbed charge of the unit: -7.000000 is not zero.
+
+ -- ignoring the warning.
+
+Building topology.
+Building atom parameters.
+Building bond parameters.
+Building angle parameters.
+Building proper torsion parameters.
+Building improper torsion parameters.
+ total 627 improper torsions applied
+Building H-Bond parameters.
+Incorporating Non-Bonded adjustments.
+Not Marking per-residue atom chain types.
+Marking per-residue atom chain types.
+  (Residues lacking connect0/connect1 - 
+   these don't have chain types marked:
+
+	res	total affected
+
+	CGLU	1
+	NVAL	1
+  )
+ (no restraints)
+	Quit
