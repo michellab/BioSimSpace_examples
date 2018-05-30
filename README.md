@@ -21,8 +21,8 @@ All the examples below should consist of a single molecule.
 HSP90   
 1ZIM  
 1ZIM-clean 
-*an input to test for disulphide bonds*
-*an input to test cyclic peptides*
+*an input to test for disulphide bonds* .  
+*an input to test cyclic peptides* .  
 *Thrombin*   
 *Cyclophilin A*   
 *Lysozyme*   
