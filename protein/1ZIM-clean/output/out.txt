@@ -1,0 +1,50 @@
+-I: Adding /home/julien/sire.app/dat/leap/prep to search path.
+-I: Adding /home/julien/sire.app/dat/leap/lib to search path.
+-I: Adding /home/julien/sire.app/dat/leap/parm to search path.
+-I: Adding /home/julien/sire.app/dat/leap/cmd to search path.
+-f: Source input.txt.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./input.txt
+----- Source: /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /home/julien/sire.app/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /home/julien/sire.app/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /home/julien/sire.app/dat/leap/lib/amino12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminoct12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminont12.lib
+Loading PDB file: ./1z1m-clean.pdb
+  total atoms in file: 1915
+Checking Unit.
+WARNING: The unperturbed charge of the unit: 3.000000 is not zero.
+
+ -- ignoring the warning.
+
+Building topology.
+Building atom parameters.
+Building bond parameters.
+Building angle parameters.
+Building proper torsion parameters.
+Building improper torsion parameters.
+ total 361 improper torsions applied
+Building H-Bond parameters.
+Incorporating Non-Bonded adjustments.
+Not Marking per-residue atom chain types.
+Marking per-residue atom chain types.
+  (Residues lacking connect0/connect1 - 
+   these don't have chain types marked:
+
+	res	total affected
+
+	CSER	1
+	NMET	1
+  )
+ (no restraints)
+	Quit
