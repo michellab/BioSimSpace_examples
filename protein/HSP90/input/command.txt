@@ -1,1 +1,0 @@
-tleap -f input.txt > out.txt
