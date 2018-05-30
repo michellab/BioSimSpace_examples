@@ -1,0 +1,34 @@
+-I: Adding /home/julien/sire.app/dat/leap/prep to search path.
+-I: Adding /home/julien/sire.app/dat/leap/lib to search path.
+-I: Adding /home/julien/sire.app/dat/leap/parm to search path.
+-I: Adding /home/julien/sire.app/dat/leap/cmd to search path.
+-f: Source input.txt.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./input.txt
+----- Source: /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /home/julien/sire.app/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /home/julien/sire.app/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /home/julien/sire.app/dat/leap/lib/amino12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminoct12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminont12.lib
+Loading PDB file: ./1z1m.pdb
+Created a new atom named: HD1 within residue: .R<HIE 73>
+Created a new atom named: HD1 within residue: .R<HIE 96>
+  total atoms in file: 1915
+  The file contained 2 atoms not in residue templates
+Checking Unit.
+WARNING: The unperturbed charge of the unit: 1.000000 is not zero.
+FATAL:  Atom .R<HIE 73>.A<HD1 18> does not have a type.
+FATAL:  Atom .R<HIE 96>.A<HD1 18> does not have a type.
+Failed to generate parameters
+Parameter file was not saved.
+	Quit

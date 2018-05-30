@@ -1,0 +1,4 @@
+source leaprc.protein.ff14SB
+mdm2 = loadPdb "1z1m-clean.pdb"
+saveAmberParm mdm2 ../output/mdm2.top ../output/mdm2.crd
+quit

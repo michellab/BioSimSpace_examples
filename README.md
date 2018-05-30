@@ -17,6 +17,10 @@ In the `input` directory contains all necessary information needed for running t
 
 ### Protein systems
 HSP90   
+1ZIM  
+
+1ZIM-clean
+
 *Thrombin*   
 *Cyclophilin A*   
 *Lysozyme*   
