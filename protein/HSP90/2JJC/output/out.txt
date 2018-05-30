@@ -1,0 +1,82 @@
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/prep to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/lib to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/parm to search path.
+-I: Adding /Users/toni_brain/Software/amber16/dat/leap/cmd to search path.
+-f: Source input.txt.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./input.txt
+----- Source: /Users/toni_brain/Software/amber16/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /Users/toni_brain/Software/amber16/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /Users/toni_brain/Software/amber16/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /Users/toni_brain/Software/amber16/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/amino12.lib
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminoct12.lib
+Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminont12.lib
+Loading PDB file: ./2JJC.pdb
+Unknown residue: LGA   number: 207   type: Terminal/beginning
+..relaxing end constraints to try for a dbase match
+  -no luck
+Unknown residue: HOH   number: 208   type: Nonterminal
+Unknown residue: HOH   number: 209   type: Terminal/last
+..relaxing end constraints to try for a dbase match
+  -no luck
+Created a new atom named: HD1 within residue: .R<HIE 189>
+Created a new atom named: HD1 within residue: .R<HIE 210>
+Creating new UNIT for residue: LGA sequence: 224
+Created a new atom named: N2 within residue: .R<LGA 224>
+Created a new atom named: C1 within residue: .R<LGA 224>
+Created a new atom named: N1 within residue: .R<LGA 224>
+Created a new atom named: C4 within residue: .R<LGA 224>
+Created a new atom named: N7 within residue: .R<LGA 224>
+Created a new atom named: C5 within residue: .R<LGA 224>
+Created a new atom named: C3 within residue: .R<LGA 224>
+Created a new atom named: H2N1 within residue: .R<LGA 224>
+Created a new atom named: H2N2 within residue: .R<LGA 224>
+Created a new atom named: H4 within residue: .R<LGA 224>
+Created a new atom named: H5 within residue: .R<LGA 224>
+Created a new atom named: H3 within residue: .R<LGA 224>
+Creating new UNIT for residue: HOH sequence: 225
+Created a new atom named: O within residue: .R<HOH 225>
+Created a new atom named: H1 within residue: .R<HOH 225>
+Created a new atom named: H2 within residue: .R<HOH 225>
+Creating new UNIT for residue: HOH sequence: 226
+Created a new atom named: O within residue: .R<HOH 226>
+Created a new atom named: H1 within residue: .R<HOH 226>
+Created a new atom named: H2 within residue: .R<HOH 226>
+  total atoms in file: 3276
+  Leap added 2 missing atoms according to residue templates:
+       2 H / lone pairs
+  The file contained 20 atoms not in residue templates
+Checking Unit.
+WARNING: The unperturbed charge of the unit: -7.000000 is not zero.
+FATAL:  Atom .R<HIE 189>.A<HD1 18> does not have a type.
+FATAL:  Atom .R<HIE 210>.A<HD1 18> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<N2 1> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<C1 2> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<N1 3> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<C4 4> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<N7 5> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<C5 6> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<C3 7> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<H2N1 8> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<H2N2 9> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<H4 10> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<H5 11> does not have a type.
+FATAL:  Atom .R<LGA 224>.A<H3 12> does not have a type.
+FATAL:  Atom .R<HOH 225>.A<O 1> does not have a type.
+FATAL:  Atom .R<HOH 225>.A<H1 2> does not have a type.
+FATAL:  Atom .R<HOH 225>.A<H2 3> does not have a type.
+FATAL:  Atom .R<HOH 226>.A<O 1> does not have a type.
+FATAL:  Atom .R<HOH 226>.A<H1 2> does not have a type.
+FATAL:  Atom .R<HOH 226>.A<H2 3> does not have a type.
+Failed to generate parameters
+Parameter file was not saved.
+	Quit

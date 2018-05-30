@@ -20,10 +20,8 @@ ff14SB protein backbone and sidechain parameters
 Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/amino12.lib
 Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminoct12.lib
 Loading library: /Users/toni_brain/Software/amber16/dat/leap/lib/aminont12.lib
-Loading PDB file: ./2jjc_protein.pdb
-  total atoms in file: 1627
-  Leap added 1631 missing atoms according to residue templates:
-       1631 H / lone pairs
+Loading PDB file: ./2JJC_prep.pdb
+  total atoms in file: 3258
 Checking Unit.
 WARNING: The unperturbed charge of the unit: -7.000000 is not zero.
 
