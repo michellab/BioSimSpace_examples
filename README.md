@@ -15,12 +15,14 @@ In the `input` directory contains all necessary information needed for running t
 
 ## Single molecule system examples
 
+All the examples below should consist of a single molecule. 
+
 ### Protein systems
 HSP90   
-1ZIM  
-
-1ZIM-clean
-
+1ZIM  (test for histidine protonation states, leap soft failure)
+1ZIM-clean (leap success) 
+*an input to test for disulphide bonds*
+*an input to test cyclic peptides*
 *Thrombin*   
 *Cyclophilin A*   
 *Lysozyme*   
