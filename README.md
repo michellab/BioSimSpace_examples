@@ -18,23 +18,26 @@ In the `input` directory contains all necessary information needed for running t
 All the examples below should consist of a single molecule. 
 
 ### Protein systems
-HSP90   
-1ZIM .  
-1ZIM-clean .  
-*an input to test for disulphide bonds* .    
-*an input to test cyclic peptides* .    
+HSP90 (2JJC)  
+Leucine Zipper (1ZIM)      
 *Thrombin*   
 *Cyclophilin A*   
 *Lysozyme*   
 
 
 ### DNA/RNA system
+*DNA Hairpin (1D66)*
 
-
-### Other molecules
+### Other molecules with parameters (other_molecules)
 *water*   
-*POPC*   
+*lipids*   
+*ions*   
+*co-factors*
 
+### Other molecules without parameters (small-molecules)
+*benzene*   
+*ethane*   
+*methanol*   
 
 
    
