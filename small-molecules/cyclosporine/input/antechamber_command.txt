@@ -1,0 +1,1 @@
+antechamber -i cyclosporine-1ikf-allh.pdb -fi pdb -o ../output/antechamber/cyclosporine.mol2 -fo mol2 -c bcc -nc 0 -at gaff  1> ../output/antechamber/out.txt ../output/antechamber/out.err

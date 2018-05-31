@@ -1,0 +1,49 @@
+
+Welcome to antechamber 17.3: molecular input file processor.
+
+acdoctor mode is on: check and diagnosis problems in the input file.
+-- Check Format for pdb File --
+   Status: pass
+Warning: Detected more than 10 Residue sequence numbers;
+         this may be a large multiple residue PDB file;
+         large multiple residue PDB files are not supported.
+         Continuing, but problems may be encountered.
+-- Check Unusual Elements --
+   Status: pass
+-- Check Open Valences --
+   Status: pass
+-- Check Geometry --
+      for those bonded   
+      for those not bonded   
+Warning: Close ( 1.33) nonbonded atoms (ID: 1, Name: N) and (ID: 195, Name: C).
+Warning: Close ( 0.32) nonbonded atoms (ID: 1, Name: N) and (ID: 200, Name: HXT).
+Warning: Close ( 0.85) nonbonded atoms (ID: 6, Name: H1) and (ID: 195, Name: C).
+Warning: Close ( 1.36) nonbonded atoms (ID: 7, Name: H2) and (ID: 195, Name: C).
+Warning: Close ( 1.44) nonbonded atoms (ID: 153, Name: N) and (ID: 154, Name: CA).
+Warning: Close ( 1.01) nonbonded atoms (ID: 153, Name: N) and (ID: 160, Name: H).
+Warning: Close ( 1.51) nonbonded atoms (ID: 154, Name: CA) and (ID: 155, Name: C).
+Warning: Close ( 1.54) nonbonded atoms (ID: 154, Name: CA) and (ID: 157, Name: CB).
+Warning: Close ( 1.09) nonbonded atoms (ID: 154, Name: CA) and (ID: 161, Name: HA).
+Warning: Close ( 1.23) nonbonded atoms (ID: 155, Name: C) and (ID: 156, Name: O).
+Warning: Close ( 1.34) nonbonded atoms (ID: 155, Name: C) and (ID: 169, Name: N).
+Warning: Close ( 1.47) nonbonded atoms (ID: 157, Name: CB) and (ID: 158, Name: CG1).
+Warning: Close ( 1.51) nonbonded atoms (ID: 157, Name: CB) and (ID: 159, Name: CG2).
+Warning: Close ( 1.09) nonbonded atoms (ID: 157, Name: CB) and (ID: 162, Name: HB).
+Warning: Close ( 1.09) nonbonded atoms (ID: 158, Name: CG1) and (ID: 163, Name: HG11).
+Warning: Close ( 1.09) nonbonded atoms (ID: 158, Name: CG1) and (ID: 164, Name: HG12).
+Warning: Close ( 1.09) nonbonded atoms (ID: 158, Name: CG1) and (ID: 165, Name: HG13).
+Warning: Close ( 1.09) nonbonded atoms (ID: 159, Name: CG2) and (ID: 166, Name: HG21).
+Warning: Close ( 1.09) nonbonded atoms (ID: 159, Name: CG2) and (ID: 167, Name: HG22).
+Warning: Close ( 1.09) nonbonded atoms (ID: 159, Name: CG2) and (ID: 168, Name: HG23).
+Warning: Close ( 1.45) nonbonded atoms (ID: 193, Name: N) and (ID: 194, Name: CA).
+Warning: Close ( 1.01) nonbonded atoms (ID: 193, Name: N) and (ID: 198, Name: H).
+Warning: Close ( 1.49) nonbonded atoms (ID: 194, Name: CA) and (ID: 195, Name: C).
+Warning: Close ( 1.53) nonbonded atoms (ID: 194, Name: CA) and (ID: 197, Name: CB).
+Warning: Close ( 1.09) nonbonded atoms (ID: 194, Name: CA) and (ID: 199, Name: HA).
+Warning: Close ( 1.24) nonbonded atoms (ID: 195, Name: C) and (ID: 196, Name: O).
+Warning: Close ( 1.09) nonbonded atoms (ID: 197, Name: CB) and (ID: 201, Name: HB1).
+Warning: Close ( 1.09) nonbonded atoms (ID: 197, Name: CB) and (ID: 202, Name: HB2).
+Warning: Close ( 1.09) nonbonded atoms (ID: 197, Name: CB) and (ID: 203, Name: HB3).
+-- Check Weird Bonds --
+   Status: pass
+-- Check Number of Units --
