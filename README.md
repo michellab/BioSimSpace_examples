@@ -35,9 +35,8 @@ MDM2 (1Z1M)
 *co-factors*
 
 ### Other molecules without parameters (small-molecules)
-*benzene*   
-*ethane*   
-*methanol*   
+benzene   
+FXR_79
 
 
    
