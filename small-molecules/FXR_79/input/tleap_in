@@ -1,0 +1,4 @@
+source leaprc.gaff
+loadamberparams ../output/parmchk/FXR_79.frcmod
+fxr_79 = loadmol2 FXR_79.mol2
+saveamberparm fxr_79 FXR_79.top FXR_79.crd

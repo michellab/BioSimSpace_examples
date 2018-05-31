@@ -1,0 +1,1 @@
+babel -isdf FXR_79.sdf -opdb FXR_79.pdb -p14p14p14p14p14p14p14p14p14p14p14p14p14p14 

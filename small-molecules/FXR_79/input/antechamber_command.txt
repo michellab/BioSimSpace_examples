@@ -1,0 +1,1 @@
+antechamber -i FXR_79.pdb -fi pdb -o FXR_79.mol2 -fo mol2 -c bcc -nc 1
