@@ -1,0 +1,1 @@
+babel -ismiles benzene --gen3D -opdb benzene.pdb -h
