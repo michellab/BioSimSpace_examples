@@ -19,7 +19,7 @@ All the examples below should consist of a single molecule.
 
 ### Protein systems
 HSP90 (2JJC)  
-Leucine Zipper (1ZIM)      
+MDM2 (1Z1M)      
 *Thrombin*   
 *Cyclophilin A*   
 *Lysozyme*   
