@@ -1,0 +1,1 @@
+parmchk2 -s gaff -i ../output/antechamber/benzene.mol2 -f mol2 -o benzene.frcmod -a N 

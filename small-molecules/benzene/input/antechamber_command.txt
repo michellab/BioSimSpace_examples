@@ -1,0 +1,1 @@
+antechamber -i benzene.pdb -fi pdb -o benzene.mol2 -fo mol2 -c bcc -nc 0 -at gaff  > out.txt

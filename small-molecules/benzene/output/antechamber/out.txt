@@ -18,14 +18,7 @@ acdoctor mode is on: check and diagnosis problems in the input file.
    Status: pass
 acdoctor mode has completed checking the input file.
 
-Running: /Users/toni_brain/Software/amber16/bin/bondtype -j full -i ANTECHAMBER_BOND_TYPE.AC0 -o ANTECHAMBER_BOND_TYPE.AC -f ac
-
-Running: /Users/toni_brain/Software/amber16/bin/atomtype -i ANTECHAMBER_AC.AC0 -o ANTECHAMBER_AC.AC -p gaff
 Info: Total number of electrons: 42; net charge: 0
 
 Running: /Users/toni_brain/Software/amber16/bin/sqm -O -i sqm.in -o sqm.out
-
-Running: /Users/toni_brain/Software/amber16/bin/am1bcc -i ANTECHAMBER_AM1BCC_PRE.AC -o ANTECHAMBER_AM1BCC.AC -f ac -p /Users/toni_brain/Software/amber16/dat/antechamber/BCCPARM.DAT -s 2 -j 1
-
-Running: /Users/toni_brain/Software/amber16/bin/atomtype -f ac -p bcc -o ANTECHAMBER_AM1BCC.AC -i ANTECHAMBER_AM1BCC_PRE.AC
 

@@ -1,0 +1,4 @@
+source leaprc.gaff
+loadamberparams ../output/parmchk/benzene.frcmod
+benzene = loadmol2 benzene.mol2
+saveamberparm benzene ../output/tleap/benzene.top ../output/tleap/benzene.crd

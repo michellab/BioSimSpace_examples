@@ -1,1 +1,0 @@
-antechamber -i benzene.pdb -fi pdb -o benzene.mol2 -fo mol2 -c bcc -nc 0 -m 1 -df 2 -at gaff -du y -an y -j 4 -s 2 -eq 2 -pf y -rn LIG > out.txt
