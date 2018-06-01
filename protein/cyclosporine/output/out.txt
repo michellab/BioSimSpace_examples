@@ -1,0 +1,442 @@
+-I: Adding /home/julien/sire.app/dat/leap/prep to search path.
+-I: Adding /home/julien/sire.app/dat/leap/lib to search path.
+-I: Adding /home/julien/sire.app/dat/leap/parm to search path.
+-I: Adding /home/julien/sire.app/dat/leap/cmd to search path.
+-f: Source input.txt.
+
+Welcome to LEaP!
+(no leaprc in search path)
+Sourcing: ./input.txt
+----- Source: /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB
+----- Source of /home/julien/sire.app/dat/leap/cmd/leaprc.protein.ff14SB done
+Log file: ./leap.log
+Loading parameters: /home/julien/sire.app/dat/leap/parm/parm10.dat
+Reading title:
+PARM99 + frcmod.ff99SB + frcmod.parmbsc0 + OL3 for RNA
+Loading parameters: /home/julien/sire.app/dat/leap/parm/frcmod.ff14SB
+Reading force field modification type file (frcmod)
+Reading title:
+ff14SB protein backbone and sidechain parameters
+Loading library: /home/julien/sire.app/dat/leap/lib/amino12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminoct12.lib
+Loading library: /home/julien/sire.app/dat/leap/lib/aminont12.lib
+Loading PDB file: ./cyclosporine-1ikf-allh.pdb
+Unknown residue: DAL   number: 0   type: Terminal/beginning
+..relaxing end constraints to try for a dbase match
+  -no luck
+Unknown residue: MLE   number: 1   type: Nonterminal
+Unknown residue: MLE   number: 2   type: Nonterminal
+Unknown residue: MVA   number: 3   type: Nonterminal
+Unknown residue: BMT   number: 4   type: Nonterminal
+Unknown residue: SAR   number: 5   type: Nonterminal
+Unknown residue: MLE   number: 6   type: Nonterminal
+Unknown residue: MLE   number: 8   type: Nonterminal
+Unknown residue: ABA   number: 10   type: Terminal/last
+..relaxing end constraints to try for a dbase match
+  -no luck
+Creating new UNIT for residue: DAL sequence: 501
+Created a new atom named: N within residue: .R<DAL 501>
+Created a new atom named: CA within residue: .R<DAL 501>
+Created a new atom named: CB within residue: .R<DAL 501>
+Created a new atom named: C within residue: .R<DAL 501>
+Created a new atom named: O within residue: .R<DAL 501>
+Created a new atom named: H1 within residue: .R<DAL 501>
+Created a new atom named: H2 within residue: .R<DAL 501>
+Created a new atom named: HA within residue: .R<DAL 501>
+Created a new atom named: HB1 within residue: .R<DAL 501>
+Created a new atom named: HB2 within residue: .R<DAL 501>
+Created a new atom named: HB3 within residue: .R<DAL 501>
+Created a new atom named: HXT within residue: .R<DAL 501>
+Created a new atom named: H within residue: .R<DAL 501>
+Creating new UNIT for residue: MLE sequence: 502
+Created a new atom named: N within residue: .R<MLE 502>
+Created a new atom named: CN within residue: .R<MLE 502>
+Created a new atom named: CA within residue: .R<MLE 502>
+Created a new atom named: CB within residue: .R<MLE 502>
+Created a new atom named: CG within residue: .R<MLE 502>
+Created a new atom named: CD1 within residue: .R<MLE 502>
+Created a new atom named: CD2 within residue: .R<MLE 502>
+Created a new atom named: C within residue: .R<MLE 502>
+Created a new atom named: O within residue: .R<MLE 502>
+Created a new atom named: HN1 within residue: .R<MLE 502>
+Created a new atom named: HN2 within residue: .R<MLE 502>
+Created a new atom named: HN3 within residue: .R<MLE 502>
+Created a new atom named: HA within residue: .R<MLE 502>
+Created a new atom named: HB3 within residue: .R<MLE 502>
+Created a new atom named: HB2 within residue: .R<MLE 502>
+Created a new atom named: HG within residue: .R<MLE 502>
+Created a new atom named: HD11 within residue: .R<MLE 502>
+Created a new atom named: HD12 within residue: .R<MLE 502>
+Created a new atom named: HD13 within residue: .R<MLE 502>
+Created a new atom named: HD21 within residue: .R<MLE 502>
+Created a new atom named: HD22 within residue: .R<MLE 502>
+Created a new atom named: HD23 within residue: .R<MLE 502>
+Created a new atom named: HXT within residue: .R<MLE 502>
+Created a new atom named: H within residue: .R<MLE 502>
+Creating new UNIT for residue: MLE sequence: 503
+Created a new atom named: N within residue: .R<MLE 503>
+Created a new atom named: CN within residue: .R<MLE 503>
+Created a new atom named: CA within residue: .R<MLE 503>
+Created a new atom named: CB within residue: .R<MLE 503>
+Created a new atom named: CG within residue: .R<MLE 503>
+Created a new atom named: CD1 within residue: .R<MLE 503>
+Created a new atom named: CD2 within residue: .R<MLE 503>
+Created a new atom named: C within residue: .R<MLE 503>
+Created a new atom named: O within residue: .R<MLE 503>
+Created a new atom named: HN1 within residue: .R<MLE 503>
+Created a new atom named: HN2 within residue: .R<MLE 503>
+Created a new atom named: HN3 within residue: .R<MLE 503>
+Created a new atom named: HA within residue: .R<MLE 503>
+Created a new atom named: HB3 within residue: .R<MLE 503>
+Created a new atom named: HB2 within residue: .R<MLE 503>
+Created a new atom named: HG within residue: .R<MLE 503>
+Created a new atom named: HD11 within residue: .R<MLE 503>
+Created a new atom named: HD12 within residue: .R<MLE 503>
+Created a new atom named: HD13 within residue: .R<MLE 503>
+Created a new atom named: HD21 within residue: .R<MLE 503>
+Created a new atom named: HD22 within residue: .R<MLE 503>
+Created a new atom named: HD23 within residue: .R<MLE 503>
+Created a new atom named: HXT within residue: .R<MLE 503>
+Created a new atom named: H within residue: .R<MLE 503>
+Creating new UNIT for residue: MVA sequence: 504
+Created a new atom named: N within residue: .R<MVA 504>
+Created a new atom named: CN within residue: .R<MVA 504>
+Created a new atom named: CA within residue: .R<MVA 504>
+Created a new atom named: CB within residue: .R<MVA 504>
+Created a new atom named: CG1 within residue: .R<MVA 504>
+Created a new atom named: CG2 within residue: .R<MVA 504>
+Created a new atom named: C within residue: .R<MVA 504>
+Created a new atom named: O within residue: .R<MVA 504>
+Created a new atom named: HN1 within residue: .R<MVA 504>
+Created a new atom named: HN2 within residue: .R<MVA 504>
+Created a new atom named: HN3 within residue: .R<MVA 504>
+Created a new atom named: HA within residue: .R<MVA 504>
+Created a new atom named: HB within residue: .R<MVA 504>
+Created a new atom named: HG11 within residue: .R<MVA 504>
+Created a new atom named: HG12 within residue: .R<MVA 504>
+Created a new atom named: HG13 within residue: .R<MVA 504>
+Created a new atom named: HG21 within residue: .R<MVA 504>
+Created a new atom named: HG22 within residue: .R<MVA 504>
+Created a new atom named: HG23 within residue: .R<MVA 504>
+Created a new atom named: HXT within residue: .R<MVA 504>
+Created a new atom named: H within residue: .R<MVA 504>
+Creating new UNIT for residue: BMT sequence: 505
+Created a new atom named: N within residue: .R<BMT 505>
+Created a new atom named: CN within residue: .R<BMT 505>
+Created a new atom named: CA within residue: .R<BMT 505>
+Created a new atom named: C within residue: .R<BMT 505>
+Created a new atom named: O within residue: .R<BMT 505>
+Created a new atom named: CB within residue: .R<BMT 505>
+Created a new atom named: OG1 within residue: .R<BMT 505>
+Created a new atom named: CG2 within residue: .R<BMT 505>
+Created a new atom named: CD1 within residue: .R<BMT 505>
+Created a new atom named: CD2 within residue: .R<BMT 505>
+Created a new atom named: CE within residue: .R<BMT 505>
+Created a new atom named: CZ within residue: .R<BMT 505>
+Created a new atom named: CH within residue: .R<BMT 505>
+Created a new atom named: HN1 within residue: .R<BMT 505>
+Created a new atom named: HN2 within residue: .R<BMT 505>
+Created a new atom named: HN3 within residue: .R<BMT 505>
+Created a new atom named: HA within residue: .R<BMT 505>
+Created a new atom named: HXT within residue: .R<BMT 505>
+Created a new atom named: H within residue: .R<BMT 505>
+Created a new atom named: HB within residue: .R<BMT 505>
+Created a new atom named: HG1 within residue: .R<BMT 505>
+Created a new atom named: HG2 within residue: .R<BMT 505>
+Created a new atom named: HD11 within residue: .R<BMT 505>
+Created a new atom named: HD12 within residue: .R<BMT 505>
+Created a new atom named: HD13 within residue: .R<BMT 505>
+Created a new atom named: HD23 within residue: .R<BMT 505>
+Created a new atom named: HD22 within residue: .R<BMT 505>
+Created a new atom named: HE3 within residue: .R<BMT 505>
+Created a new atom named: HE2 within residue: .R<BMT 505>
+Created a new atom named: HZ3 within residue: .R<BMT 505>
+Created a new atom named: HZ2 within residue: .R<BMT 505>
+Created a new atom named: HH1 within residue: .R<BMT 505>
+Created a new atom named: HH2 within residue: .R<BMT 505>
+Created a new atom named: HH3 within residue: .R<BMT 505>
+Creating new UNIT for residue: SAR sequence: 506
+Created a new atom named: N within residue: .R<SAR 506>
+Created a new atom named: CA within residue: .R<SAR 506>
+Created a new atom named: C within residue: .R<SAR 506>
+Created a new atom named: O within residue: .R<SAR 506>
+Created a new atom named: CN within residue: .R<SAR 506>
+Created a new atom named: HA3 within residue: .R<SAR 506>
+Created a new atom named: HA2 within residue: .R<SAR 506>
+Created a new atom named: HXT within residue: .R<SAR 506>
+Created a new atom named: H within residue: .R<SAR 506>
+Created a new atom named: HN1 within residue: .R<SAR 506>
+Created a new atom named: HN2 within residue: .R<SAR 506>
+Created a new atom named: HN3 within residue: .R<SAR 506>
+Creating new UNIT for residue: MLE sequence: 507
+Created a new atom named: N within residue: .R<MLE 507>
+Created a new atom named: CN within residue: .R<MLE 507>
+Created a new atom named: CA within residue: .R<MLE 507>
+Created a new atom named: CB within residue: .R<MLE 507>
+Created a new atom named: CG within residue: .R<MLE 507>
+Created a new atom named: CD1 within residue: .R<MLE 507>
+Created a new atom named: CD2 within residue: .R<MLE 507>
+Created a new atom named: C within residue: .R<MLE 507>
+Created a new atom named: O within residue: .R<MLE 507>
+Created a new atom named: HN1 within residue: .R<MLE 507>
+Created a new atom named: HN2 within residue: .R<MLE 507>
+Created a new atom named: HN3 within residue: .R<MLE 507>
+Created a new atom named: HA within residue: .R<MLE 507>
+Created a new atom named: HB3 within residue: .R<MLE 507>
+Created a new atom named: HB2 within residue: .R<MLE 507>
+Created a new atom named: HG within residue: .R<MLE 507>
+Created a new atom named: HD11 within residue: .R<MLE 507>
+Created a new atom named: HD12 within residue: .R<MLE 507>
+Created a new atom named: HD13 within residue: .R<MLE 507>
+Created a new atom named: HD21 within residue: .R<MLE 507>
+Created a new atom named: HD22 within residue: .R<MLE 507>
+Created a new atom named: HD23 within residue: .R<MLE 507>
+Created a new atom named: HXT within residue: .R<MLE 507>
+Created a new atom named: H within residue: .R<MLE 507>
+One sided connection. Residue: default_name missing connect1 atom.
+Creating new UNIT for residue: MLE sequence: 509
+One sided connection. Residue:  missing connect0 atom.
+Created a new atom named: N within residue: .R<MLE 509>
+Created a new atom named: CN within residue: .R<MLE 509>
+Created a new atom named: CA within residue: .R<MLE 509>
+Created a new atom named: CB within residue: .R<MLE 509>
+Created a new atom named: CG within residue: .R<MLE 509>
+Created a new atom named: CD1 within residue: .R<MLE 509>
+Created a new atom named: CD2 within residue: .R<MLE 509>
+Created a new atom named: C within residue: .R<MLE 509>
+Created a new atom named: O within residue: .R<MLE 509>
+Created a new atom named: HN1 within residue: .R<MLE 509>
+Created a new atom named: HN2 within residue: .R<MLE 509>
+Created a new atom named: HN3 within residue: .R<MLE 509>
+Created a new atom named: HA within residue: .R<MLE 509>
+Created a new atom named: HB3 within residue: .R<MLE 509>
+Created a new atom named: HB2 within residue: .R<MLE 509>
+Created a new atom named: HG within residue: .R<MLE 509>
+Created a new atom named: HD11 within residue: .R<MLE 509>
+Created a new atom named: HD12 within residue: .R<MLE 509>
+Created a new atom named: HD13 within residue: .R<MLE 509>
+Created a new atom named: HD21 within residue: .R<MLE 509>
+Created a new atom named: HD22 within residue: .R<MLE 509>
+Created a new atom named: HD23 within residue: .R<MLE 509>
+Created a new atom named: HXT within residue: .R<MLE 509>
+Created a new atom named: H within residue: .R<MLE 509>
+One sided connection. Residue: default_name missing connect1 atom.
+Created a new atom named: HXT within residue: .R<CALA 510>
+  Added missing heavy atom: .R<CALA 510>.A<OXT 11>
+Creating new UNIT for residue: ABA sequence: 511
+Created a new atom named: N within residue: .R<ABA 511>
+Created a new atom named: CA within residue: .R<ABA 511>
+Created a new atom named: C within residue: .R<ABA 511>
+Created a new atom named: O within residue: .R<ABA 511>
+Created a new atom named: CB within residue: .R<ABA 511>
+Created a new atom named: CG within residue: .R<ABA 511>
+Created a new atom named: HN within residue: .R<ABA 511>
+Created a new atom named: HA within residue: .R<ABA 511>
+Created a new atom named: HXT within residue: .R<ABA 511>
+Created a new atom named: HO within residue: .R<ABA 511>
+Created a new atom named: HB1 within residue: .R<ABA 511>
+Created a new atom named: HB2 within residue: .R<ABA 511>
+Created a new atom named: HG1 within residue: .R<ABA 511>
+Created a new atom named: HG2 within residue: .R<ABA 511>
+Created a new atom named: HG3 within residue: .R<ABA 511>
+  total atoms in file: 218
+  Leap added 1 missing atom according to residue templates:
+       1 Heavy
+  The file contained 192 atoms not in residue templates
+Checking Unit.
+WARNING: The unperturbed charge of the unit: -1.000000 is not zero.
+FATAL:  Atom .R<DAL 501>.A<N 1> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<CA 2> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<CB 3> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<C 4> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<O 5> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<H1 6> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<H2 7> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<HA 8> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<HB1 9> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<HB2 10> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<HB3 11> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<HXT 12> does not have a type.
+FATAL:  Atom .R<DAL 501>.A<H 13> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<N 1> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CN 2> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CA 3> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CB 4> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CG 5> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CD1 6> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<CD2 7> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<C 8> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<O 9> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HN1 10> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HN2 11> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HN3 12> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HA 13> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HB3 14> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HB2 15> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HG 16> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD11 17> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD12 18> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD13 19> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD21 20> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD22 21> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HD23 22> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<HXT 23> does not have a type.
+FATAL:  Atom .R<MLE 502>.A<H 24> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<N 1> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CN 2> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CA 3> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CB 4> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CG 5> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CD1 6> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<CD2 7> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<C 8> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<O 9> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HN1 10> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HN2 11> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HN3 12> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HA 13> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HB3 14> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HB2 15> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HG 16> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD11 17> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD12 18> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD13 19> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD21 20> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD22 21> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HD23 22> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<HXT 23> does not have a type.
+FATAL:  Atom .R<MLE 503>.A<H 24> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<N 1> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<CN 2> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<CA 3> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<CB 4> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<CG1 5> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<CG2 6> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<C 7> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<O 8> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HN1 9> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HN2 10> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HN3 11> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HA 12> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HB 13> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG11 14> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG12 15> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG13 16> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG21 17> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG22 18> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HG23 19> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<HXT 20> does not have a type.
+FATAL:  Atom .R<MVA 504>.A<H 21> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<N 1> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CN 2> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CA 3> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<C 4> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<O 5> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CB 6> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<OG1 7> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CG2 8> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CD1 9> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CD2 10> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CE 11> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CZ 12> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<CH 13> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HN1 14> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HN2 15> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HN3 16> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HA 17> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HXT 18> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<H 19> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HB 20> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HG1 21> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HG2 22> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HD11 23> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HD12 24> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HD13 25> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HD23 26> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HD22 27> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HE3 28> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HE2 29> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HZ3 30> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HZ2 31> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HH1 32> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HH2 33> does not have a type.
+FATAL:  Atom .R<BMT 505>.A<HH3 34> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<N 1> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<CA 2> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<C 3> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<O 4> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<CN 5> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HA3 6> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HA2 7> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HXT 8> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<H 9> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HN1 10> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HN2 11> does not have a type.
+FATAL:  Atom .R<SAR 506>.A<HN3 12> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<N 1> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CN 2> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CA 3> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CB 4> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CG 5> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CD1 6> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<CD2 7> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<C 8> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<O 9> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HN1 10> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HN2 11> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HN3 12> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HA 13> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HB3 14> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HB2 15> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HG 16> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD11 17> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD12 18> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD13 19> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD21 20> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD22 21> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HD23 22> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<HXT 23> does not have a type.
+FATAL:  Atom .R<MLE 507>.A<H 24> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<N 1> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CN 2> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CA 3> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CB 4> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CG 5> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CD1 6> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<CD2 7> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<C 8> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<O 9> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HN1 10> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HN2 11> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HN3 12> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HA 13> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HB3 14> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HB2 15> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HG 16> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD11 17> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD12 18> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD13 19> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD21 20> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD22 21> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HD23 22> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<HXT 23> does not have a type.
+FATAL:  Atom .R<MLE 509>.A<H 24> does not have a type.
+FATAL:  Atom .R<CALA 510>.A<HXT 12> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<N 1> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<CA 2> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<C 3> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<O 4> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<CB 5> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<CG 6> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HN 7> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HA 8> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HXT 9> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HO 10> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HB1 11> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HB2 12> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HG1 13> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HG2 14> does not have a type.
+FATAL:  Atom .R<ABA 511>.A<HG3 15> does not have a type.
+Failed to generate parameters
+Parameter file was not saved.
+	Quit

@@ -37,7 +37,11 @@ MDM2 (1Z1M)
 ### Other molecules without parameters (small-molecules)
 benzene   
 FXR_79
-
+cyclosporine
+HSP90_82p2
+HSP90_82p2-sqmfailure
+HSP90_82p7
+HSP90_84p1-sqmfailure
 
    
 

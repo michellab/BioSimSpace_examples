@@ -1,0 +1,2 @@
+~/sire.app/bin/antechamber -i solute.pdb -fi pdb -o ../output/antechamber/solute.mol2 -fo mol2 -c bcc -nc 0 -at gaff  -ek "qm_theory='AM1',grms_tol=0.0002, tight_p_conv=1, scfconv=1.0d-10, itrmax=2000, pseudo_diag=1, maxcyc=1000" 1> ../output/antechamber/out.txt 2> ../output/antechamber/out.err
+mv ANTECH* ATOM* sqm* ../output/antechamber/

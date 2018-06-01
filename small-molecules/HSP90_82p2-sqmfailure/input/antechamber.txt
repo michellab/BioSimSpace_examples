@@ -1,0 +1,2 @@
+~/sire.app/bin/antechamber -i solute.pdb -fi pdb -o ../output/antechamber/solute.mol2 -fo mol2 -c bcc -nc 0 -at gaff 1> ../output/antechamber/out.txt 2> ../output/antechamber/out.err
+mv ANTECH* ATOM* sqm* ../output/antechamber/

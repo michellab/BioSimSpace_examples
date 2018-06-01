@@ -1,0 +1,4 @@
+source leaprc.protein.ff14SB
+mdm2 = loadPdb "cyclosporine-1ikf-allh.pdb"
+saveAmberParm mdm2 ../output/csa.top ../output/csa.crd
+quit
