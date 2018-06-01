@@ -35,16 +35,16 @@ MDM2 (1Z1M)
 *co-factors*
 
 ### Other molecules without parameters (small-molecules)
-benzene   
-FXR_79
-cyclosporine
-HSP90_82p2
-HSP90_82p2-sqmfailure
-HSP90_82p7
-HSP90_84p1-sqmfailure
+benzene       
+FXR_79         
+cyclosporine         
+HSP90_82p2         
+HSP90_82p2-sqmfailure       
+HSP90_82p7         
+HSP90_84p1-sqmfailure       
 
 ### Mapping examples (small-molecules at the moment) 
-benzene-to-chlorobenzene*   
+*benzene-to-chlorobenzene*   
 *benzene-to-chlorobenzene-spatiallyclosest*    
 *HSP90_82p2-to-HSP90_84p1*    
 *FXR_79-to-benzene*    
