@@ -44,9 +44,9 @@ HSP90_82p7
 HSP90_84p1-sqmfailure
 
 ### Mapping examples (small-molecules at the moment) 
-benzene~chlorobenzene*
-*benzene~chlorobenzene-spatiallyclosest*
-*HSP90_82p2~HSP90_84p1*
-*FXR_79~benzene*
-*FXR_79~HSP90_82p2* 
+benzene-to-chlorobenzene*   
+*benzene-to-chlorobenzene-spatiallyclosest*    
+*HSP90_82p2-to-HSP90_84p1*    
+*FXR_79-to-benzene*    
+*FXR_79-to-HSP90_82p2*    
 
