@@ -16,13 +16,15 @@ m0 = BSS.Align.rmsdAlign(m0, m1, mapping)
 aligned_mols = m0 + m1
 BSS.IO.saveMolecules('aligned.pdb', aligned_mols, "PDB")
 
-map0 = { "coordinates" : "coordinates0",
-        "charge" : "charge0",
-        "element" : "element0" }
+map0 = { "name" : "name0",
+         "coordinates" : "coordinates0",
+         "charge" : "charge0",
+         "element" : "element0" }
 
-map1 = { "coordinates" : "coordinates1",
-        "charge" : "charge1",
-        "element" : "element1" }
+map1 = { "name" : "name1", 
+         "coordinates" : "coordinates1",
+         "charge" : "charge1",
+         "element" : "element1" }
 
 merged = BSS.Align.merge(m0, m1, mapping=mapping)
 BSS.IO.saveMolecules('merged0.pdb', merged,'PDB', map=map0)
