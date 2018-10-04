@@ -1,0 +1,15 @@
+Cathepsin ligands example:
+--------------------------
+
+This directory contains 6 Cathepsin ligands which where docked to ttlcCatS_5_GC3.pdb.
+The docking was done not retaining the water molecules of the crystal structure.
+The ligands from part of the Free energy set of GC4 and would be expected to bind
+in a similar way. (Conservation of binding mode). This is achieved if the crystal
+waters are retained for docking, but sometimes such information is not available and
+it would still be necessary to compute MCS for these structures and potentially raise
+a warning that you are trying to do a Free energy perturbation between ligands whose binding
+modes are very different from each other.
+
+Subsequently it would be great if there was something available that would allow
+all other ligands to be forced onto a binding mode, particularly if the MCS overlap
+is very large and therefore only changes are the arrangements of small side chains. 
