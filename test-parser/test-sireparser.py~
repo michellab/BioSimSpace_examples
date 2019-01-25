@@ -1,0 +1,17 @@
+from Sire.IO import *
+import sys
+
+parm7 = sys.argv[1]
+rst7 = sys.argv[2]
+
+# Load the input files.
+s = MoleculeParser.read([parm7, rst7])
+
+# Write back to file.
+p = AmberRst7(s)
+p.writeToFile("test.rst7")
+p = AmberPrm(s)
+p.writeToFile("test.prm7")
+
+# Now try to re-read the files.
+s = MoleculeParser.read(["test.rst7", "test.prm7"])
